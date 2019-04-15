@@ -1,5 +1,4 @@
 # EventDisplay #
---------------------
 1. Getting Started
     1. Installation
     2. Configuration
